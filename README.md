@@ -107,8 +107,8 @@ Top-level declarations
 
 ~~~kotlin
 /**
- * Copyright © 2017 Asian Tech Co., Ltd.
- * Created by at-... on 25/10/2017.
+ * Copyright © 2017 
+ * Created by ... on 25/10/2017.
  * ...
  */
 class SomeClass {
